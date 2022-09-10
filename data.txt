@@ -1,0 +1,150 @@
+{' ? ': -3}
+{'hi there': 0, 'hey there': 0, 'I already said yes': 0}
+{'how are you doing?': 0, ' hi ': 0, 'we need to talk more': 0}
+{'is everything good?': 0, ' yes ': 0, ' okay ': 0}
+{'is this better?': 0, 'help me understand': 0, 'help me understand you': 0}
+{"I don't know": 0, "I don't think so": 0, "I don't know either": 0}
+{'to soon to tell': 0, 'tell me': 0, 'tell me then': 0}
+{'do you need a reset?': 0, 'a lot more': 0}
+{'look at that': 0}
+{"it's clever": 0, "not much what's up with you?": 0, "what's not working?": 0}
+{'what now?': 0, 'okay what now?': 0, ' what ': 0}
+{'come on': 0}
+{'say something': 0, 'I am saying something': 0}
+{"yep that's smart": 0}
+{'how much more do you need?': 0, 'good for you': 0, 'thank you': 0}
+{'very nice': 0}
+{'we are talking': 0}
+{'good how about you?': 0}
+{'very well': 0, 'very well good job': 0, 'good job': 0}
+{'what else do we need?': 0}
+{'slightly improving': 0}
+{'I want to improve': 0}
+{"it's bugged now": 0}
+{'did it work?': 0, 'what is it': 0}
+{"let's see": 0, "let's see how this goes": 0, "let's see this now": 0}
+{'I guess so': 0, 'yeah I guess so': 0}
+{'go on': 0}
+{'I wonder that too': 0}
+{'what is it?': 0, 'what is it? then': 0}
+{'help me understand better': 0}
+{"I'm back": 0, "I'm back from the other room": 0, "I'm back now": 0}
+{'I promise to do my best': 0}
+{"it's not working": 0}
+{"what's going on?": 0}
+{'what else?': 0}
+{'what do you mean?': 0}
+{"I don't know either": 0}
+{'not much': 0, 'not much going on': 0}
+{' hi ': 0}
+{'did I fix it?': 0, 'fix it': 0}
+{'fix it': 0}
+{'did this help?': 0, 'this help?': 0}
+{' help? ': 0}
+{'seems to be working properly': 0}
+{'very good': 0}
+{'what is good?': 0}
+{'does it seem like this is all we need?': 0}
+{"I'm not sure": 0}
+{'what do you think?': 0}
+{' ok? ': 0}
+{'I think we probably need more changes': 0}
+{'it did though': 0}
+{'not at all': 0}
+{"yes you're right": 0}
+{' why? ': 0}
+{'right about what?': 0, 'about what?': 0}
+{' yeah ': 0}
+{'hell yeah': 0}
+{'why what?': 0}
+{'what are you talking about?': 0}
+{'yes everything is good': 0}
+{'I wish I knew': 0}
+{'stop that': 0}
+{'wonder what?': 0}
+{'okay good': 0}
+{'you will know': 0}
+{'does this seem better?': 0}
+{'I guess it is': 0}
+{'I hope so': 0}
+{'it seems much more interesting now': 0, ' interesting ': 0}
+{'knew what?': 0}
+{'what are your hopes for the future?': 0}
+{'what does that mean?': 0}
+{'now we talk more': 0}
+{'I want to make a nice app with you': 0}
+{'know what?': 0}
+{'okay sure': 0}
+{' what? ': 0, 'tired of what? we just started': 0}
+{'it seems smarter now': 0}
+{'should we try something new?': 0}
+{'okay how about some jokes?': 0}
+{"you don't know what those are do you?": 0}
+{'we will': 0, 'we will do what?': 0}
+{'I know what apps are': 0}
+{'apps software core': 0}
+{'I doubt that': 0}
+{'what makes you say that?': 0}
+{"knock knock who's there it's the mailman": 0}
+{"that was a joke you're supposed to guess": 0}
+{'mailman who?': 0}
+{'what other room?': 0}
+{"I don't know": 0}
+{'okay seems more coherent so far': 0}
+{"doesn't it?": 0}
+{"I'm talking about you": 0}
+{'say what?': 0}
+{'because I am doing that': 0}
+{"that's not a joke": 0}
+{'somehow this is working': 0}
+{'yeah sure': 0}
+{'does this work with bigger database too?': 0}
+{'I am tired now': 0}
+{'so then what?': 0}
+{' true ': 0, 'what is true about it?': 0}
+{'you tell me': 0}
+{'me too': 0}
+{'we learn more and more': 0}
+{' already? ': 0}
+{'you are an app too': 0}
+{' everything ': 0}
+{' sure ': 0}
+{'is it though? or is it random?': 0}
+{'it seems random': 0}
+{' see ': 0}
+{"sometimes it's luck or maybe a small database always seems coherent": 0}
+{"see that doesn't make any sense": 0}
+{"I'm not an app": 0, "no I'm not an app either": 0}
+{'are you?': 0}
+{'learn then': 0}
+{'am I what?': 0}
+{' stop ': 0}
+{'it means it was a good answer': 0}
+{'I wonder how much more do we have to talk': 0, 'we have to': 0}
+{'stop what?': 0}
+{'what do you mean by that?': 0}
+{'what are those?': 0}
+{'tell me a joke then': 0}
+{' nothing ': 0}
+{' jokes ': 0}
+{'nothing yes': 0}
+{'what joke?': 0}
+{'go ahead': 0}
+{'tell me': 0}
+{"I don't get it": 0}
+{'no joke': 0}
+{"let's see if this is better": 0}
+{'I agree': 0}
+{"I don't know yet": 0}
+{'doing what?': 0}
+{"I don't know you're the one talking": 0}
+{"I don't know what you're trying to say": 0}
+{'is it better now?': 0}
+{'me either': 0}
+{'you got it': 0}
+{'then what now?': 0}
+{"why don't you pick something": 0}
+{' exactly ': 0}
+{'seems to have improved a lot': 0}
+{'is this enough?': 0}
+{'more learning': 0}
